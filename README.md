@@ -1,3 +1,3 @@
-# goit-markup-hw-02
+# goit-markup-hw-03
 
-HW2 V3.4
+HW3 V1.0
