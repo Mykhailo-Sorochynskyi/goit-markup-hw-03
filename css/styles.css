@@ -255,7 +255,7 @@ img{display: block;}
   /*#endregion our team*/
 
   /*#region our portfolio*/
-  .Portfolio {
+  .portfolio {
     color: #2e2f42;
     text-transform: capitalize;
     background-color: #ffffff;
@@ -287,8 +287,9 @@ img{display: block;}
 .portfolio-box {
   text-align: center;
   padding: 32px 16px;
-  border-top: none;
+  
   border: 1px solid #e7e9fc;
+  border-top: none;
 }
 /*#endregion our portfolio*/
 
