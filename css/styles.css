@@ -3,7 +3,9 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
   background-color: #ffffff;
+}
 
+img{display: block;}
   /*#region Reset*/
   ul,
   ol,
@@ -274,7 +276,6 @@ body {
     background-color: #ffffff;
     width: calc((100% - 24 * 2) / 3);
   }
-}
 .portfolio-img {
   display: block;
 }
